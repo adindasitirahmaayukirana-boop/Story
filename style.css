@@ -1,0 +1,24 @@
+      .text {
+        color: burlywood;
+        font-size: xx-large;
+        font-family: "Playfair Display", serif;
+        font-weight: 400;
+
+      }
+
+      .text1{
+        text-align: justify;
+        font-size: larger;
+        font-family: "PT Serif", serif;
+        font-weight: 600;
+        font-style: normal;
+        color:rgb(164, 134, 89);
+
+      }
+
+      body{
+        background: url("https://th.bing.com/th/id/OIP.x8i6XWHcXxi6dTwmqi4zHgHaEJ?&dpr=1,3o=7&rm=3&rs=1&pid=ImgDetMain&o=7&rm=3");        background-position-x: left;
+        background-size: cover;
+        background-color: grey;
+
+      }
